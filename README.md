@@ -126,8 +126,6 @@ Please choose an option:
 
 ## Database schema
 
-![Database schema](./img/database_schema.png)
-
 ### Users table
 
 The `users` table stores the login information for users of the system.
